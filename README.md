@@ -1,4 +1,4 @@
-# 📌 Book_my_space | Full Stack Room Booking Platform
+# 📌 Full Stack Room Booking Platform
 
 - A comprehensive room booking platform enabling hourly and daily reservations.
 - Implemented secure payment processing using Stripe with 3-5% service fee integration.
@@ -8,15 +8,13 @@
 - Technologies: Next.js, TypeScript, PostgreSQL, ShadcnUI, TailwindCSS, Stripe, NextAuth.
 
 
-### [Live Demo](https://book-my-space-rho.vercel.app/) | [Demo Video](https://www.loom.com/share/b1d10b0c005b4ea39fba5f865acc1774?sid=c4759b17-4607-4d5b-a084-eba10e1e2d5d)
-
 ## 🚀 Installation
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/VishalChaudhary01/book_my_space
-cd book_my_space
+git clone https://github.com/ankitdubey1227/room-booking-platform
+cd room-booking-platform
 ```
 
 ## 📦 Setup using Docker (Recommended)
